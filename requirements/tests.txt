@@ -166,9 +166,9 @@ pytest==6.2.5 \
     # via
     #   -r requirements/tests.in
     #   pytest-postgresql
-pytest-postgresql==3.1.2 \
-    --hash=sha256:32a15caa8cbebb7e8cbccb1c03bda55a00e7de9a2409add8b04dfbfa60f6432b \
-    --hash=sha256:f3582a51506b0aa2dd292bfd12bac5f27982ef9235b516140437d7af8e4b7287
+pytest-postgresql==4.1.0 \
+    --hash=sha256:599d21d65f14e1470feed8fdfd92252db1eca7b5b2c7d3f7029f068091078773 \
+    --hash=sha256:7987aecfc7ccd334e913367f448beeff5c17e84eb6bea768b20bf1458b95fb64
     # via -r requirements/tests.in
 python-dateutil==2.8.2 \
     --hash=sha256:0123cacc1627ae19ddf3c27a5de5bd67ee4586fbdd6440d9748f8abb483d3e86 \
